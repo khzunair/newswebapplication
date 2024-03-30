@@ -1,6 +1,6 @@
-# React + TypeScript + Vite News Application
+# News Web Application
 
-Welcome to our News Application project! This template provides a comprehensive setup to create a modern news application using React, TypeScript, Vite, and Tailwind CSS. Our goal is to deliver the latest news from trusted sources in an engaging and visually appealing manner.
+News App, undertaken during my early learning phase, allowed me to explore API handling and modern web application development. The app offers features to access news insights, view content from original sources, and sort news by interest and mood, all while respecting usage. It aggregates top news sources into one platform. 
 
 ## Features
 
@@ -8,7 +8,6 @@ Welcome to our News Application project! This template provides a comprehensive 
 - **TypeScript**: Enhance code quality and maintainability with static typing.
 - **Vite**: Enjoy fast development with Vite's blazing-fast build tooling.
 - **Tailwind CSS**: Streamline styling and design with the utility-first CSS framework.
-- **Custom Graphics and Images**: Enhance the user experience with captivating graphics and high-quality images.
 - **Integration with Trusted News Sources**: Fetch and display the latest news articles from reputable sources.
 
 ## Getting Started
@@ -19,7 +18,7 @@ To get started with the project, follow these steps:
 2. Navigate to the project directory.
 3. Install dependencies using `npm install`.
 4. Start the development server with `npm run dev`.
-5. Open your browser and visit `http://localhost:3000` to see the application in action.
+5. Open your browser and visit `http://localhost:5173` to see the application in action.
 
 ## Folder Structure
 
@@ -55,5 +54,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-Thank you for choosing our News Application template. Happy coding!
+
 
